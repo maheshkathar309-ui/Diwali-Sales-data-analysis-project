@@ -1,4 +1,4 @@
-# Diwali Sales Data Analysis 🪔✨
+# Diwali Sales Data Analysis
 
 An end-to-end Exploratory Data Analysis (EDA) project using Python to analyze Diwali festival sales data. This project uncovers critical insights into customer demographics, regional purchasing power, and top-performing product categories to help a retail business optimize its marketing strategies and inventory planning for future festive seasons.
 
